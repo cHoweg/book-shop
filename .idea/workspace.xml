@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9f0095c-f5ff-4a4a-a2ec-bc9a7b52da29" name="默认更改列表" comment="bookShop">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneratorMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/BookShopApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/CartVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/UserCartVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/enums/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/entity/enums/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/mapper/AddressMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/mapper/CartMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/service/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/web/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/web/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/web/OrdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/egc/bookshop/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/order_list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.data.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/100dongjindarenweifaxian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/NO SECRETS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/advert1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/advert2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/advert3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/beiwei78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/biezouwanyihaoxiaone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book10_nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book1_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book2_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book3_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book4_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book5_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book6_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book7_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book8_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/book9_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/bullet1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/cikehuakai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/dongjian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/emotions/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/feizhouguilai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/ganguanpinpai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/genlejiaxuexinggesecai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/guwu04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/jindumanbu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/lapulasidemonv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/maichanpinjiushimaiziji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/meilianchuzhuxi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/nanhaidemaoxianshu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/ouzhou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/prod1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/prod2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/qingshanggaojiushishuohuarangrenshufu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/taikong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/tenxunchuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/thumb1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/thumb2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/thumb3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/woyushijiezhichayigeni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/wozhixiangyigerenzainixinli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/xiaodaolifencunzhijian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/xiaoshouxinlizhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/xiegeinianqinrende1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/xizang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/yidali.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/yuannideqingchunbufumengxiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/yunyinbiji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/confirm_order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/login_reg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bookData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/booksListData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/confirm_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/order_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/egc/bookshop/BookShopApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/book-shop.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/BookShopApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/CartVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/UserCartVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/enums/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/entity/enums/Suit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/mapper/AddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/mapper/BookMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/mapper/CartMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/service/AddressService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/service/CartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/web/BookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/web/CartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/web/OrdController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/egc/bookshop/web/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/order_list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.data.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/100dongjindarenweifaxian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/NO SECRETS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/advert1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/advert2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/advert3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/beiwei78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/biezouwanyihaoxiaone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book10_nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book1_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book2_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book3_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book4_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book5_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book6_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book7_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book8_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/book9_nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/bullet1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/cikehuakai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/dongjian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/emotions/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/feizhouguilai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/ganguanpinpai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/genlejiaxuexinggesecai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/guwu04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/jindumanbu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/lapulasidemonv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/maichanpinjiushimaiziji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/meilianchuzhuxi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/nanhaidemaoxianshu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/ouzhou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/prod1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/prod2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/qingshanggaojiushishuohuarangrenshufu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/taikong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/tenxunchuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/thumb1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/thumb2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/thumb3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/woyushijiezhichayigeni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/wozhixiangyigerenzainixinli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/xiaodaolifencunzhijian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/xiaoshouxinlizhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/xiegeinianqinrende1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/xizang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/yidali.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/yuannideqingchunbufumengxiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/yunyinbiji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/confirm_order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/login_reg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/bookData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/booksListData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/books_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/common/bookModal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/common/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/common/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/common/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/confirm_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/order_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/egc/bookshop/BookShopApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1irondXAJ04qWfOPYFEbeZVQRlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BookShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.egc.bookshop.BookShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f0095c-f5ff-4a4a-a2ec-bc9a7b52da29" name="默认更改列表" comment="" />
+      <created>1602675239091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602675239091</updated>
+      <workItem from="1602675243754" duration="1179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bookShop" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookShop" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="140" key="CommitChangelistDialog2" timestamp="1602676544014">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="305" y="140" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1602676544014" />
+  </component>
+</project>
