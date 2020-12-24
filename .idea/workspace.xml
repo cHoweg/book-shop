@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9f0095c-f5ff-4a4a-a2ec-bc9a7b52da29" name="默认更改列表" comment="">
+    <list default="true" id="b9f0095c-f5ff-4a4a-a2ec-bc9a7b52da29" name="默认更改列表" comment="bookShop">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/book-shop.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
@@ -88,7 +95,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602675239091</updated>
-      <workItem from="1602675243754" duration="2837000" />
+      <workItem from="1602675243754" duration="4399000" />
+      <workItem from="1602680852766" duration="782000" />
+      <workItem from="1602746163130" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="bookShop">
       <created>1602676601507</created>
@@ -97,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602676601507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bookShop">
+      <created>1602678188039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602678188039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +128,18 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="628" y="422" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602677320571" />
-    <state x="305" y="140" key="CommitChangelistDialog2" timestamp="1602676600994">
+    <state x="305" y="140" key="CommitChangelistDialog2" timestamp="1602679690847">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="305" y="140" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1602676600994" />
+    <state x="305" y="140" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1602679690847" />
+    <state x="88" y="115" key="DiffContextDialog" timestamp="1602679446825">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="88" y="115" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602679446825" />
+    <state x="705" y="437" key="Github.ShareDialog" timestamp="1602679290879">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="705" y="437" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602679290879" />
     <state x="328" y="118" key="SettingsEditor" timestamp="1602678180038">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -124,10 +148,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="624" y="241" key="SpringBootCustomization/0.23.1680.1027@0.23.1680.1027" timestamp="1602677524028" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1602676921748">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1602678192411">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1602676921748" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1602678192411" />
     <state x="347" y="227" key="spring file set editor" timestamp="1602677543788">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
